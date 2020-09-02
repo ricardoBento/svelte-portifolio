@@ -1,0 +1,26 @@
+{
+    "CV": [
+        {
+            "name": "Ricardo Watanabe Bento",
+            "dob": "23/01/1981",
+            "address": "",
+            "email": "",
+            "mobile_phone": "+7510963961",
+            "github": "",
+            "present_work": "",
+            "work_experience": [
+                {
+                    "company": "",
+                    "start_data": "",
+                    "end_data": ""
+                },
+                {
+                    "company": "",
+                    "start_data": "",
+                    "end_data": ""
+                }
+            ]
+        },
+        {}
+    ]
+}
